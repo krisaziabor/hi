@@ -3,7 +3,7 @@ export const siteLiveAnnouncement = {
   previewText: "Kanon is live and ready for you",
   headline: "Welcome to Kanon",
   paragraphs: [
-    "After a semester of researching, conversating witb myself on Voice Memos, designing and finally developing, my thesis app is here.",
+    "After some time researching, yapping to myself on Voice Memos, designing, and finally developing, my thesis app is here.",
     "Kanon seeks to bring people together by pushing the work we create, the media we consume, and the theory we treasure into one space where everything can be connected. I can't wait for you to try.",
   ] as const,
   signoffLines: ["Warmly,", "Kris"] as const,
