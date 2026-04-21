@@ -9,5 +9,5 @@ export const siteLiveAnnouncement = {
   signoffLines: ["Warmly,", "Kris"] as const,
   ctaLabel: "Open Kanon",
   /** Shown in email; neutral wording so it still reads if someone only sees the web page. */
-  footer: "You're on the early list for Kanon. If you know someone who wants to be added, please reach out to me.",
+  footer: "For the best experience, please complete the onboarding experience on desktop before trying the app on mobile.",
 } as const;
